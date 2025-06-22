@@ -88,14 +88,16 @@ pip install -r requirements.txt
 
 ## 📁 Run the Pipeline
 #### Step 1: Clean data
+
 ``` bash
 python scripts/data_cleaning.py
 ```
 
 #### Step 2: Forecast spend
+
 ``` bash
 python scripts/forecast_spend.py
-``
+```
 
 #### Step 3: Score supplier risk
 ``` bash
