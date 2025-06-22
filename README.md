@@ -87,16 +87,16 @@ pip install -r requirements.txt
 ```
 
 ## 📁 Run the Pipeline
-# Step 1: Clean data
+#### Step 1: Clean data
 python scripts/data_cleaning.py
 
-# Step 2: Forecast spend
+#### Step 2: Forecast spend
 python scripts/forecast_spend.py
 
-# Step 3: Score supplier risk
+#### Step 3: Score supplier risk
 python scripts/risk_scoring.py
 
-# Step 4: Run Streamlit app (optional)
+#### Step 4: Run Streamlit app (optional)
 streamlit run streamlit_app/app.py
 
 
