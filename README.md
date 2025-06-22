@@ -51,9 +51,7 @@ ProcureCast360/
 
 ---
 
-## 🔁 Pipeline Overview
 
-![Pipeline Diagram](pipeline_diagram.png)
 
 ---
 
