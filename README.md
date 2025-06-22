@@ -77,9 +77,10 @@ ProcureCast360/
   Launch with:
   ```bash
   streamlit run streamlit_app/app.py
-```
+  ```
 
 ## 🛠️ Installation
+
 ``` bash
 git clone https://github.com/ajaychary06/ProcureCast360.git
 cd ProcureCast360
