@@ -1,0 +1,4 @@
+Vendor_ID,avg_delay,delay_rate,avg_spend,spend_std,po_count,risk_level
+V001,9.5,0.0,642.5,173.24116139070415,2,Low
+V002,12.0,0.5,390.0,155.56349186104046,2,Low
+V003,14.0,0.0,960.0,0.0,1,High
