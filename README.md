@@ -128,9 +128,7 @@ streamlit run streamlit_app/app.py
 
 🐍 [GitHub](https://github.com/ajaychary06) 
 
-💼 [LinkedIn](https://www.linkedin.com/in/ajaychary-kandukuri-053a5a25a/)”
-
-[Gmail](ajaycharykandukuri06@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/ajaychary-kandukuri-053a5a25a/)
 
 
 ## ⭐ Project Highlights
