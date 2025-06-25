@@ -130,6 +130,7 @@ streamlit run streamlit_app/app.py
 
 💼 [LinkedIn](https://www.linkedin.com/in/ajaychary-kandukuri-053a5a25a/)”
 
+[Gmail](ajaycharykandukuri06@gmail.com)
 
 
 ## ⭐ Project Highlights
